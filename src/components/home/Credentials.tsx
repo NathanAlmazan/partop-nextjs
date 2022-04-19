@@ -3,7 +3,6 @@ import Container from "@mui/material/Container";
 import Stack from "@mui/material/Stack";
 import Grid from "@mui/material/Grid"; 
 import Typography from "@mui/material/Typography";
-import Image from "next/Image";
 import { useInView } from 'react-intersection-observer';
 import { motion, AnimatePresence } from "framer-motion";
 import Divider from "../Divider";
